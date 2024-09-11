@@ -1,0 +1,43 @@
+.panel_container_top {
+    height: 55%;
+}
+
+.panel_container_bottom {
+    border: cyan;
+}
+
+.panel_buttons {
+    width: auto;
+    border: cyan;
+}
+
+.panel_runtime_info {
+    height: 20%;
+}
+
+.panel_datatable {
+    height: auto;
+}
+
+.panel_process {
+    height: 20%;
+    border: none;
+}
+
+.panel_config {
+    border: cyan;
+}
+
+.horizontal {
+    layout: horizontal;
+    height: auto;
+}
+
+.bold {
+    text-style: bold;
+}
+
+VerticalScroll {
+    border: gray;
+}
+
